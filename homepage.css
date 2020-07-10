@@ -1,0 +1,73 @@
+.header {
+    background-color: transparent;
+    align-items: center;
+    font-size: x-large;
+}
+
+.body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.left {
+    border: white-space: 2px;
+    width: 100px;
+    color: black;
+    height: 3cm;
+    float: left;
+    margin: 5px;
+}
+
+.right {
+    width: 170px;
+    float: right;
+}
+
+.webdev {
+    font-size: xx-large;
+}
+
+.middle {
+    font-family: 'Comic Sans MS';
+    font-size: 25px;
+    font-style: oblique;
+    color: black;
+    word-spacing: 1px;
+    width: 2200px;
+    float: left;
+    margin: 10px;
+    padding: 10px;
+    justify-content: center;
+}
+
+.login {
+    float: left;
+    padding: 2px;
+    width: 30px;
+    background-color: transparent;
+    padding-right: 50px;
+    margin: 1px;
+    border: whitesmoke: 2px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background: rgb(7, 158, 255);
+    background: rgb(255, 45, 7);
+    background: radial-gradient(circle, rgba(255, 45, 7, 0.6805555555555556) 0%, rgba(2, 3, 4, 0.9722222222222222) 100%);
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+
+.foot {
+    position: fixed;
+    font-size: medium;
+    bottom: 0;
+    right: -70;
+    color: white;
+    text-align: right;
+}
